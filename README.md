@@ -26,6 +26,10 @@ exp2a output StringOperations: https://github.com/user-attachments/assets/fc48c8
 
 exp2b output PerformanceTest: https://github.com/user-attachments/assets/90f40570-19a8-449f-bbf5-e0037b54b370
 
+exp3a output StringHandler: https://github.com/user-attachments/assets/d8aca752-7fec-43f9-a2cd-a3e3755bca2c
+                            https://github.com/user-attachments/assets/06db3307-8e27-4655-b7f6-4949ebadc409
+
+
 
 
 
