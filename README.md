@@ -22,6 +22,11 @@ exp1c output LinkedListProgram4: https://github.com/user-attachments/assets/1c64
 
 exp1c output LinkedListProgram5: https://github.com/user-attachments/assets/6c762137-1966-4699-a7c3-71c49bf2c6a5
 
+exp2a output StringOperations: https://github.com/user-attachments/assets/fc48c86c-0e59-4afc-ab7f-52cc9d9c8821
+
+exp2b output PerformanceTest: https://github.com/user-attachments/assets/90f40570-19a8-449f-bbf5-e0037b54b370
+
+
 
 
 
