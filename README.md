@@ -12,6 +12,23 @@ exp1b output ArraylistProgram4: https://github.com/user-attachments/assets/30aa9
 
 exp1b output ArraylistProgram5: https://github.com/user-attachments/assets/787f8f3f-1f24-4579-8dda-14c12ac0dd98
 
+exp1c output LinkedListProgram1: https://github.com/user-attachments/assets/ac8f0589-5085-45d2-b812-21880e28cd53
+
+exp1c output LinkedListProgram2: https://github.com/user-attachments/assets/10ed4db0-eccd-4bd2-a07e-7303c0aba94c
+
+exp1c output LinkedListProgram3: https://github.com/user-attachments/assets/aa9103c2-e8c9-4d31-9587-898d6a5f3be8
+
+exp1c output LinkedListProgram4: https://github.com/user-attachments/assets/1c64bb92-4ccd-4649-a6fb-7bb3236c414e
+
+exp1c output LinkedListProgram5: https://github.com/user-attachments/assets/6c762137-1966-4699-a7c3-71c49bf2c6a5
+
+
+
+
+
+
+
+
 
 
 
