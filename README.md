@@ -29,6 +29,11 @@ exp2b output PerformanceTest: https://github.com/user-attachments/assets/90f4057
 exp3a output StringHandler: https://github.com/user-attachments/assets/d8aca752-7fec-43f9-a2cd-a3e3755bca2c
                             https://github.com/user-attachments/assets/06db3307-8e27-4655-b7f6-4949ebadc409
 
+exp3b output StringHandlerFunctions: https://github.com/user-attachments/assets/2b12ca41-209f-4647-8f4b-90b07dafff7b
+
+exp3c output stringhandlerfunctions: https://github.com/user-attachments/assets/52c39a79-5aff-4aad-808f-73bbf59ef491
+
+
 
 
 
